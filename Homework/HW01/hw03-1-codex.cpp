@@ -1,3 +1,4 @@
+// TODO: #8 Arranmge this C coding into CODEX pattern. 
 #include <stdio.h>
 int main() 
 {
@@ -8,7 +9,7 @@ int main()
   {
     if (i < 30)
     {
-      printf("Here");
+      printf("Here ");
       if (i == 8) 
       {
         printf("This is 8. ");
